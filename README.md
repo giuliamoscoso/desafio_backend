@@ -8,9 +8,12 @@
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
--   Node.js
+-   Node.js v18.20
+-   TypeScript
 -   Express
 -   MySQL 8.0
+
+**Observação**: Chamadas de teste realizadas utilizando o Postman estão disponíveis no arquivo `desafio.postman_collection.json`, na pasta raiz do projeto.
 
 ## Desafio A
 
