@@ -1,0 +1,48 @@
+# Dependências do Node
+node_modules/
+
+# Diretório de saída do TypeScript
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema operacional ou IDE específico
+.DS_Store
+Thumbs.db
+
+# Configurações de ambiente
+.env
+.env.test
+.env.production
+
+# Arquivos de cache
+*.cache
+*.tsbuildinfo
+
+# Cobertura de testes
+coverage/
+
+# Diretórios temporários
+tmp/
+temp/
+
+# Arquivos de lock do pacote
+package-lock.json
+yarn.lock
+
+# Configurações de IDEs e editores de texto
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Outras pastas de compilação
+out/
